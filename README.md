@@ -25,6 +25,6 @@ I’m also interested in cyber security, software architecture and performance-f
 
 ## Connect
 
-- Portfolio: https://gurram-manoj-portfolio.netlify.app/
+- Portfolio: https://manoj-portfolio8.netlify.app/
 - LinkedIn: https://www.linkedin.com/in/gurrammanoj/
 - GitHub: https://github.com/gurrammanoj18
